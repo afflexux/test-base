@@ -1,5 +1,5 @@
 {
-  "name": "test-my-appwright",
+  "name": "test-base",
   "type": "module",
   "private": true,
   "scripts": {
